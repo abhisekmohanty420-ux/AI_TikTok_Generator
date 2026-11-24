@@ -1,0 +1,6 @@
+# Ignore folders
+/static/
+/uploads/
+
+# Ignore file
+/done.txt
