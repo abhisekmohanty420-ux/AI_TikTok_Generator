@@ -31,3 +31,5 @@ The application uses Python and Flask to provide a web interface where users can
 The goal of this project is to build an AI-powered video generation system that reduces the time and effort required to create short-form social media content.
 
 This project is currently under development, and new features and improvements will be added over time.
+# AI_TikTok_Generator
+Ai tiktok and video generator
